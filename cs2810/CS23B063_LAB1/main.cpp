@@ -11,6 +11,9 @@ int main(){
 
     cout << "BTech list : \n";
     admin.printBT();
-    cout << "Dual Degree list : \n";
-    admin.printDD();
+    // cout << "Dual Degree list : \n";
+    // admin.printDD();
+
+    cout << "FACS : \n";
+    admin.printFac();
 }

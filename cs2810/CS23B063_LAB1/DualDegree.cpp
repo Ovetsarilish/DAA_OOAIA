@@ -8,6 +8,8 @@
 
 using namespace std;
 
+class Faculty;
+
 class DualDegree{
     public :
         string name; 
@@ -18,17 +20,12 @@ class DualDegree{
         Faculty* DDPGuide;
         Faculty* taSupervisor;
         Faculty* facad;
-        
 
-        DualDegree(string name, string rollno, string hostel, Faculty* facad, float cgpa){
-            name = name;
-            rollNumber = rollno;
-            hostel = hostel;
-            facad = facad;
-            cgpa = cgpa;
-
-            DDPGuide = new Faculty("John Doe", true);
-            taSupervisor = new Faculty("John Doe", true);
+        DualDegree(string name, string rollno, string hostel, float cgpa){
+            this->name = name;
+            this->rollNumber = rollno;
+            this->hostel = hostel;
+            this->cgpa = cgpa;
         }
 
         string getHostel(){

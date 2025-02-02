@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "span": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}
