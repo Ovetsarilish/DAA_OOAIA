@@ -1,0 +1,85 @@
+﻿2020
+
+
+Intro : https://www.hackerrank.com/contests/cs2810-a2/challenges/cs2810-a2
+Polymorphism : https://www.hackerrank.com/contests/cs2810-a3/challenges/polymorphism-2
+Inheritance and Numbers : https://www.hackerrank.com/contests/inheritance-1580620337/challenges/numbers-12
+Functors and searching : https://www.hackerrank.com/contests/cs2810-ooaia-a6/challenges/functors-and-searching
+Streams + External/Internal sorting : https://www.hackerrank.com/contests/cs2810-ooaia-a7/challenges/incremental-sorting
+
+
+
+
+MIDSEM : https://www.hackerrank.com/contests/midsem-1/challenges/midsem
+
+
+Exceptions and graph algs : https://www.hackerrank.com/contests/cs2810-ooaia-a8/challenges/dazzling-festival-of-science
+Case study, graphs and greedy : https://www.hackerrank.com/contests/ooaia-a10-contest/challenges/a10-1-1
+Graphs and DP : https://www.hackerrank.com/contests/a11-1/challenges/lola-land
+String matching : https://www.hackerrank.com/contests/a12-1/challenges/go-corona-corona-go-1
+Matrices : https://www.hackerrank.com/contests/assignment-13/challenges/india-fights-back-corona
+
+
+
+
+Stack and Some related : https://www.hackerrank.com/contests/cs2810-assignment-3/challenges/cs2810-a3q1
+Vector and some related : https://www.hackerrank.com/contests/cs2810-assignment-4-bonus/challenges/cs2810-a4q1-1
+Bonus-Vector and related : 
+https://www.hackerrank.com/contests/cs2810-assignment-4-bonus/challenges/cs2810-a4q2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+
+Encapsulation and Interface : https://www.hackerrank.com/contests/assignment-1001/challenges/stand-in-a-queue
+Inheritance, Polymorphism, Operator Overloading : 
+https://www.hackerrank.com/contests/ooaia-2/challenges/eso-gates
+Modular Programming, Function Overloading, STL : 
+https://www.hackerrank.com/contests/ooaia-a3/challenges/eso-sort
+Code Reuse, Functors : 
+https://www.hackerrank.com/contests/ooaia4/challenges/the-last-resort
+STL, Operator Overloading, Algorithm : 
+https://www.hackerrank.com/contests/ooaia-a5/challenges/bigg-integer
+
+
+
+
+MIDSEM : https://www.hackerrank.com/contests/ooaia-a6/challenges/file-system
+
+
+Linked Data Structures-FSM : https://www.hackerrank.com/contests/ooaia-a7/challenges/regular-expression
+Linked Data Structures-Trees :
+https://www.hackerrank.com/contests/ooaia-a8/challenges/mystery-mountain
+Graphs : https://www.hackerrank.com/contests/ooaia-a9/challenges/chromatic-jump
+Graphs : https://www.hackerrank.com/contests/ooaia-a10/challenges/metro-2050
+Matrices : https://www.hackerrank.com/contests/ooaia-a11/challenges/a-simple-twist
+Matrices : https://www.hackerrank.com/contests/ooaia-a12/challenges/minesweeper4
+
+
+
+
+ENDSEM : https://www.hackerrank.com/contests/ooaia-a13/challenges/resident-final
